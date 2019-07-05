@@ -1,5 +1,5 @@
-# Estimating-Genetic-Parameters-in-the-Absence-of-Genetic-Data-from-Country-scale-Health-Datasets
-
+# Estimating Genetic Parameters in the Absence of Genetic Data from Country-scale Health Datasets
+# Heritability, Genetic Correlation, Environmental Correlation, and Phenotypic Correlation
 
 1. Training_Data_H2.csv training dataset for the imputation of heritability
 
