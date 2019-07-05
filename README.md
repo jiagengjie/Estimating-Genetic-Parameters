@@ -1,7 +1,7 @@
 # Estimating Genetic Parameters in the Absence of Genetic Data from Country-scale Health Datasets
-# Heritability, Genetic Correlation, Environmental Correlation, and Phenotypic Correlation
+## Heritability, Genetic Correlation, Environmental Correlation, and Phenotypic Correlation
 
-1. Training_Data_H2.csv training dataset for the imputation of heritability
+### 1. Training_Data_H2.csv training dataset for the imputation of heritability
 
 Column names are listed below and annotated in parentheses:
 
@@ -9,7 +9,7 @@ Disease (disease name), H2 (published heritability value), H2_se (standard error
    
 
 
-2. Training_Data_Corr.csv training dataset for the imputation of correlation
+### 2. Training_Data_Corr.csv training dataset for the imputation of correlation
 
 Column names are listed below and annotated in parentheses:
 
