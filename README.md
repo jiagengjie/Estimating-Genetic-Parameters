@@ -1,4 +1,6 @@
-## Estimating Heritability and Genetic Correlations from Country-scale Health Datasets in the Absence of Genetic Data
+## Estimating Heritability and Genetic Correlations from Large Health Datasets in the Absence of Genetic Data
+
+### please cite: Jia, G., Li, Y., Zhang, H. et al. Estimating heritability and genetic correlations from large health datasets in the absence of genetic data. Nat Commun 10, 5508 (2019) doi:10.1038/s41467-019-13455-0
 
 ### 1. Training_Data_H2.csv 
 
